@@ -528,6 +528,7 @@ button, input, select, textarea {
   background-color: #e5e5e5;
   border: 5px double white;
   left: 5px;
+  z-index: 999999;
 }
 
 .block1{
