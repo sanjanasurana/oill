@@ -214,9 +214,9 @@ function Flow() {
         style={rfStyle}
         elementsSelectable={true}
         edgesUpdatable={false}
-        // panOnDrag={false}
-        // preventScrolling
-        // zoomOnScroll={false}
+         panOnDrag={false}
+         preventScrolling
+         zoomOnScroll={false}
         onNodeClick={handleNodeClick}
       />
       {loading && (
