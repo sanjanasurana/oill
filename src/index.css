@@ -863,7 +863,8 @@ button, input, select, textarea {
     top: 0;
     right: 80%;
     /* left: -80%; */
-    width: 300px;
+/*     width: 300px; */
+    width: 320px;
     height: 100%;
     /* background-color: rgba(255, 255, 255, 0.8); */
     z-index: 9999;
