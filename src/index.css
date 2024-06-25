@@ -533,22 +533,22 @@ button, input, select, textarea {
 
 .block1{
   position: relative;
-  width: 350px;
+  width: 25%;
   border-right: 9px double white;
 }
 .block2{
   position: relative;
-  width: 350px;
+  width: 25%;
   border-right: 9px double white;
 }
 .block3{
   position: relative;
-  width: 350px;
+  width: 25%;
   border-right: 9px double white;
 }
 .block4{
   position: relative;
-  width: 350px;
+  width: 25%;
   border-right: 9px double white;
 }
 
