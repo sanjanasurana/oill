@@ -227,14 +227,15 @@ function Flow() {
           </div>
         </div>
       )}
-      
+      {/* {success && (
+        <div className="blinking-text">
+        </div>
+      )} */}
+      <div className="navbarbottom">
       {success && (
         <div className="blinking-text">
-          <div className="success-content">
-          </div>
         </div>
       )}
-      <div className="navbarbottom">
           <div className="block1">
             <div className="block1title"><b>GENERAL DATA</b></div>
             <br></br>
